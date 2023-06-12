@@ -1,5 +1,5 @@
 IP: 158.160.0.161;
 name_taski: https://nikitkosss.myftp.org;
-name_kittygram: smilerightnow.hopto.org;
+name_kittygram: https://smilerightnow.hopto.org;
 login: nikita;
 password: 9934;
